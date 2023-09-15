@@ -1,1 +1,5 @@
-none
+git status
+touch up_to_date
+git add up_to_date
+git commit up_to_date
+git push up_to_date
